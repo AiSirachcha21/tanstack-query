@@ -166,6 +166,27 @@
               "to": "framework/angular/zoneless"
             }
           ]
+        },
+        {
+          "label": "vanilla",
+          "children": [
+            {
+              "label": "Overview",
+              "to": "framework/vanilla/overview"
+            },
+            {
+              "label": "Installation",
+              "to": "framework/vanilla/installation"
+            },
+            {
+              "label": "Quick Start",
+              "to": "framework/vanilla/quick-start"
+            },
+            {
+              "label": "Devtools",
+              "to": "framework/vanilla/devtools"
+            }
+          ]
         }
       ]
     },
@@ -573,6 +594,23 @@
             {
               "label": "Does this replace state managers?",
               "to": "framework/angular/guides/does-this-replace-client-state"
+            }
+          ]
+        },
+        {
+          "label": "vanilla",
+          "children": [
+            {
+              "label": "Queries",
+              "to": "framework/vanilla/guides/queries"
+            },
+            {
+              "label": "Query Keys",
+              "to": "framework/vanilla/guides/query-keys"
+            },
+            {
+              "label": "Mutations",
+              "to": "framework/vanilla/guides/mutations"
             }
           ]
         }
